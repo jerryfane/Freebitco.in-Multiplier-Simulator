@@ -4,9 +4,9 @@ logging.basicConfig(filename='log.log',level=logging.DEBUG)
 
 
 base_bet = 1                 #Modificare qui
-base_odd = 100                #Modificare qui
-odd_lose = 100                 #Modificare qui
-lose_multiplier = 1          #Modificare qui
+base_odd = 2                 #Modificare qui
+odd_lose = 2                 #Modificare qui
+lose_multiplier = 2          #Modificare qui
 win_multiplier = 1           #Modificare qui
 
 rolls_number = 100           #Modificare qui
